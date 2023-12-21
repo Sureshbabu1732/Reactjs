@@ -1,0 +1,51 @@
+body{
+    background-color: #FFFFFF;
+    font: 1.6rem helvetica;
+    box-sizing: border-box;
+}
+.signup{
+    width: 100%;  
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.left-container{
+    padding: 20px;
+    height: 603.5px;
+    width: 55%;    
+    background-color: #4284F4;
+}
+.right-container{
+    padding-left: 30px;
+    margin: 50px;
+    height: 516px;
+    width: 50%;
+}
+.welcome{
+    padding-left: 50px;
+    padding-top: 80px;
+    color: #FFFFFF;
+    font-weight: bolder;
+
+}
+.manage{
+    padding-left: 50px;
+    padding-top: 250px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
+.portal{
+    padding-top: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-size: x-small;
+    font-weight: 800;
+    color: #d5d5d5;
+}
+.Signup input{
+    width: 100%;
+    height:
+}
+
+
+ 
+
